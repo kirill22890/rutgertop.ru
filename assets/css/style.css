@@ -1,0 +1,33 @@
+/*вспомогательное окно сайта*/
+
+body {
+    
+}
+
+ul {
+    font-family: sans-serif;
+    font-size: 25px;
+    list-style: none;
+    background-color: #f22613;
+    height: 10px;
+    padding: 0;
+}
+
+a {
+    color: #fff;
+    text-decoration: none;
+    line-height: 50px;
+    padding: 0 25px;
+    border-right: 2px solid #c91302;
+    transition: .3s all ease;
+    display: block;
+}
+
+a:hover {
+    background-color: #db1c0b;
+}
+
+li {
+    float: left;
+}
+
